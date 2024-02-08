@@ -12,6 +12,22 @@ My main strengths are achievement of goals, multitasking, and good team work.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 </div>
 
+## 📈 My Projects
+
+
+#### [PDR](https://github.com/Yuriy85/PDR)
+#### [eCommerce-Application](https://github.com/Yuriy85/eCommerce-Application)
+#### [Presentation](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/53)
+#### [Async-race](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/47)
+#### [RS-CSS](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/45)
+#### [Migration to TypeScript](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/41)
+#### [Self-Introduction](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/39)
+#### [Minesweeper](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/38)
+#### [Shelter](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/6)
+#### [CSS Bayan](https://github.com/Yuriy85/cssBayan/pull/1)
+#### [Momentum](https://github.com/rolling-scopes-school/yuriy85-JSFEPRESCHOOL2022Q4/pull/32)
+#### [Plants](https://github.com/rolling-scopes-school/yuriy85-JSFEPRESCHOOL2022Q4/pull/3)
+
 ## ⚙️ GitHub statystic:
 <table>
   <tr>
