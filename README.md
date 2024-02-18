@@ -21,6 +21,7 @@ My main strengths are achievement of goals, multitasking, and good team work.
 #### [Async-race](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/47)
 #### [RS-CSS](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/45)
 #### [Migration to TypeScript](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/41)
+#### [Virtual keyboard](https://github.com/Yuriy85/virtual-keyboard)
 #### [Self-Introduction](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/39)
 #### [Minesweeper](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/38)
 #### [Shelter](https://github.com/rolling-scopes-school/yuriy85-JSFE2023Q1/pull/6)
