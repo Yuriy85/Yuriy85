@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 import React from 'react';
 
 function App() {
-  const [isDarkTheme, setIsDarkTheme] = useState(true);
+  const [isDarkTheme, setIsDarkTheme] = useState(false);
   useEffect(() => {
     if (isDarkTheme) {
       document.body.setAttribute('data-bs-theme', 'dark');
