@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import ErrorBoundary from '../components/ErrorBoundary';
 import Aside from '../layouts/Aside';
 import Main from '../layouts/Main';
+import React from 'react';
 
 function App() {
   const [isDarkTheme, setIsDarkTheme] = useState(true);
