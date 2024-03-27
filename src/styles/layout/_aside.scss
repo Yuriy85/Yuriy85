@@ -1,0 +1,45 @@
+.aside {
+  background-color: $brand-color;
+  min-width: 20rem;
+  max-width: 25rem;
+  padding: 1rem;
+  transition: background-color 0.3s;
+
+  &--light {
+    background-color: rgb(65 101 151);
+  }
+
+  @include breakpoint('medium') {
+    max-width: 100%;
+  }
+}
+
+.aside__title {
+  display: flex;
+  flex-direction: column;
+}
+
+.aside__contacts-wrapper,
+.aside__certifications-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.aside__icon {
+  animation: 10s linear infinite rotate;
+  &:hover {
+    cursor: pointer;
+    animation: 1s linear infinite rotate;
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
